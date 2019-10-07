@@ -1,14 +1,8 @@
 {
     "project_slug": "",
     "repo_url": "",
-    "travis": {
-        "host": "",
-        "repo_name": "",
-        "challenge_id": ""
-    },
     "public_key": "",
     "product": "",
     "product_name": "",
     "amount": "",
-    "sku": ""
 }
